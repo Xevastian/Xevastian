@@ -1,5 +1,19 @@
-## 📌 LeetCode Profile  
-[[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/NotVex/)](https://leetcode.com/progress/)
+## 👋 About Me  
+I am **Vex Ivan Sumang**, a Com-Sci Student, a Full-stack Developer, Competitive Programmer, a Gamer, a Runner, and a Chess Player.
+---
+🏆 **Achievements**:  
+- **Champion** - DATABIZ Competitive Programming 2024  
+- **7th Place** - UPLB COSS Code Wars 2025  
+- **NASA Space App Challenge** Participant  
+---
+🚀 **Notable Projects**:  
+- **SpotMap** (C++): Campus navigation for Batangas State University.  
+- **DeTechs** (Arduino + OpenWeatherMap): Disaster detection system.  
+- **MediCo** (Web App): Study and collaboration platform.  
+---
+## 🏆 LeetCode Progress  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NotVex?theme=light&ext=contest)](https://leetcode.com/u/NotVex/)
+---
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
