@@ -1,12 +1,12 @@
 ## 👋 About Me  
-I am **Vex Ivan Sumang**, a Com-Sci Student, a Full-stack Developer, Competitive Programmer, a Gamer, a Runner, and a Chess Player.
+I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, Competitive Programmer⌨️, a Gamer🎮, a Runner, and a Chess Player♟️. I like @thea23salva and creative solutions to complex problems; I hate the problem, love the solution.
 ---
-🏆 **Achievements**:  
+## 🏆 **Achievements**:  
 - **Champion** - DATABIZ Competitive Programming 2024  
 - **7th Place** - UPLB COSS Code Wars 2025  
 - **NASA Space App Challenge** Participant  
 ---
-🚀 **Notable Projects**:  
+## 🚀 **Notable Projects**:  
 - **SpotMap** (C++): Campus navigation for Batangas State University.  
 - **DeTechs** (Arduino + OpenWeatherMap): Disaster detection system.  
 - **MediCo** (Web App): Study and collaboration platform.  
