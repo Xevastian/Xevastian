@@ -1,5 +1,5 @@
 ## 👋 About Me  
-I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, Competitive Programmer⌨️, a Gamer🎮, a Runner, and a Chess Player♟️. I like @thea23salva and creative solutions to complex problems; I hate the problem, love the solution.
+I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, Competitive Programmer⌨️, a Gamer🎮, a Runner🏃‍♀️‍➡️, and a Chess Player♟. I enjoy the idea of creative solutions to complex problems; I hate the problem, love the solution.
 ---
 ## 🏆 **Achievements**:  
 - **Champion** - DATABIZ Competitive Programming 2024  
