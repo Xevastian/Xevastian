@@ -1,5 +1,5 @@
 ## 👋 About Me  
-I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, Competitive Programmer⌨️.
+I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, and  Competitive Programmer⌨️.
 ---
 ## 🏆 **Achievements**:  
 - **Champion** - DATABIZ Competitive Programming 2024  
