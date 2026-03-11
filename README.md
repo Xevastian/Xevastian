@@ -1,5 +1,5 @@
 ## 👋 About Me  
-I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, and  Competitive Programmer⌨️.
+I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, and a Competitive Programmer⌨️.
 ---
 ## 🏆 **Achievements**:  
 - **Member** - 400BadRequest Rank #1 Philippines in CTFtime
