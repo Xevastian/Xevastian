@@ -13,7 +13,9 @@ I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, and  Competi
 ## 🚀 **Notable Projects**:  
 - **SpotMap** (C++): Campus navigation for Batangas State University.  
 - **DeTechs** (Arduino + OpenWeatherMap): Disaster detection system.  
-- **MediCo** (Web App): Study and collaboration platform.  
+- **MediCo** (Web App): Study and collaboration.
+- **TapSitLog** (Web App): QR Based Ordering system.  
+
 ---
 ## 🏆 LeetCode Progress  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NotVex?theme=light&ext=contest)](https://leetcode.com/u/NotVex/)
