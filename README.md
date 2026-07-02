@@ -7,8 +7,9 @@ I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, and a Compet
 - **1st Place** - DATABIZ Competitive Programming 2024  
 - **7th Place** - UPLB COSS Code Wars 2025  
 - **Participant** - NASA Space App Challenge 2024
-- **2nd Place** - Stage Group Finals 2026
-- **2nd Place** UPLB COSS Code Wars 2026  
+- **2nd Place** - Codechum National Programming Challenge Stage Group Finals 2026
+- **2nd Place** - UPLB COSS Code Wars 2026
+- **Finalist** - Algolympics 2026
 ---
 ## 🚀 **Notable Projects**:  
 - **SpotMap** (C++): Campus navigation for Batangas State University.  
