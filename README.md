@@ -10,6 +10,7 @@ I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, and a Compet
 - **2nd Place** - Codechum National Programming Challenge Stage Group Finals 2026
 - **2nd Place** - UPLB COSS Code Wars 2026
 - **Finalist** - Algolympics 2026
+- **3rd Place** - Technofusion 2026 Programming Challenge
 ---
 ## 🚀 **Notable Projects**:  
 - **SpotMap** (C++): Campus navigation for Batangas State University.  
