@@ -2,7 +2,7 @@
 I am Vex, a Com-Sci Student🧑‍💻, a Full-stack Developer💻, and a Competitive Programmer⌨️
 ---
 ## 🏆 **Achievements**:  
-- **Member** - 400BadRequest Rank #1 Philippines in CTFtime
+- **Member** - 400BadRequest Former Rank #1 Philippines in CTFtime
 - **1st Place** - Infomercial InoVision 2023
 - **1st Place** - DATABIZ Competitive Programming 2024  
 - **7th Place** - UPLB COSS Code Wars 2025  
